@@ -13,5 +13,4 @@
 * Add the downloaded file in `Flask Deployed App` folder.
 * Run the Flask app using below command `python3 app.py`
 * You can also use downloaded file in `Model` Section and play with it using Jupyter Notebook.
-## ⭐develop 
-## ⭐chadalawada jaswanth
+
